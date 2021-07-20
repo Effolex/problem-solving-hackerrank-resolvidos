@@ -3,7 +3,7 @@
  ###   Linguagem utilizada 
 
 ------------
-$$JavaScript$$
+JavaScript
 
 ------------
  
